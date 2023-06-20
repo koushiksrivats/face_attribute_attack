@@ -1,4 +1,4 @@
 
 # Evading Forensic Classifiers with Attribute-Conditioned Adversarial Faces (CVPR 23)
 
-Code will be released by 19th June.
+Code will be released by June.
