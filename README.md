@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/CVPR-Paper-blue.svg">
   </a> 
   
-  <a href="https://github.com/koushiksrivats/" target='_blank'>
+  <a href="https://koushiksrivats.github.io/face_attribute_attack/" target='_blank'>
     <img src=https://img.shields.io/badge/Project-Website-87CEEB">
   </a>
 
