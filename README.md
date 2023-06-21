@@ -32,15 +32,21 @@
   <img src="./docs/static/images/idea.gif" align="center" width="100%">
 </p>
 
+<br/>
+
+
+##  Updates :loudspeaker:
+Code will be released by the end of June.
+
+<br/>
+<br/>
+
 
 ## Attribute-conditioned adversarial face image generation
 <p align="center">
   <img src="./docs/static/images/pipeline.png" align="center" width="100%">
 </p>
 
-
-##  Updates :loudspeaker:
-Code will be released by June.
 
 
 #
