@@ -29,6 +29,12 @@
 
 
 <p align="center">
+  <img src="./docs/static/images/idea.gif" align="center" width="100%">
+</p>
+
+
+## Attribute-conditioned adversarial face image generation
+<p align="center">
   <img src="./docs/static/images/pipeline.png" align="center" width="100%">
 </p>
 
