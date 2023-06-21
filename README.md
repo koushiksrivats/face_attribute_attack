@@ -35,3 +35,15 @@
 
 ##  Updates :loudspeaker:
 Code will be released by June.
+
+
+If you're using this work in your research or applications, please cite using this BibTeX:
+```bibtex
+@inproceedings{shamshad2023evading,
+  title={Evading Forensic Classifiers With Attribute-Conditioned Adversarial Faces},
+  author={Shamshad, Fahad and Srivatsan, Koushik and Nandakumar, Karthik},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={16469--16478},
+  year={2023}
+}
+```
