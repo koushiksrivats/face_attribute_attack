@@ -62,7 +62,7 @@
           <div class="publication-links">
             <!-- PDF Link. -->
             <span class="link-block">
-              <a href="https://openaccess.thecvf.com/content/CVPR2023/html/Shamshad_Evading_Forensic_Classifiers_With_Attribute-Conditioned_Adversarial_Faces_CVPR_2023_paper.html"
+              <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Shamshad_Evading_Forensic_Classifiers_With_Attribute-Conditioned_Adversarial_Faces_CVPR_2023_paper.pdf"
                  class="external-link button is-normal is-rounded is-dark">
                 <span class="icon">
                     <i class="fas fa-file-pdf"></i>
@@ -113,7 +113,47 @@
   </div>
 </section>
 
+<!-- Add an image -->
+<section>
+  <div class="container is-max-desktop">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <figure class="image is-16by9">
+          <img src="./static/images/pipeline.png">
+        </figure>
+      </div>
+    </div>
+  </div>
+</section>
 
+
+<!-- Abstract. -->
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Abstract. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="subtitle has-text-justified">
+          <p>
+            The ability of generative models to produce highly realistic synthetic face images has raised security and ethical concerns. 
+            As a first line of defense against such fake faces, deep learning based forensic classifiers have been developed. 
+            While these forensic models can detect whether a face image is synthetic or real with high accuracy, they are also vulnerable to adversarial attacks. 
+            Although such attacks can be highly successful in evading detection by forensic classifiers, they introduce visible noise patterns that are detectable through careful human scrutiny. 
+            Additionally, these attacks assume access to the target model(s) which may not always be true.
+            Attempts have been made to directly perturb the latent space of GANs to produce adversarial fake faces that can circumvent forensic classifiers. 
+            In this work, we go one step further and show that it is possible to successfully generate adversarial fake faces with a specified set of attributes (e.g., hair color, eye size, race, gender, etc.). 
+            To achieve this goal, we leverage the state-of-the-art generative model StyleGAN with disentangled representations, which enables a range of modifications without leaving the manifold of natural images. 
+            We propose a framework to search for adversarial latent codes within the feature space of StyleGAN, where the search can be guided either by a text prompt or a reference image. 
+            We also propose a meta-learning based optimization strategy to achieve transferable performance on unknown target models.
+            Extensive experiments demonstrate that the proposed approach can produce semantically manipulated adversarial fake faces, which are true to the specified attribute set and can successfully fool forensic face classifiers, while remaining undetectable by humans.
+          </p>
+        </div>
+      </div>
+    </div>
+    <!--/ Abstract. -->
+  </div>
+</section>
 
 
 <!-- <section class="section" id="BibTeX">

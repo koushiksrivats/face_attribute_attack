@@ -27,5 +27,11 @@
   </a>
 </p>
 
+
+<p align="center">
+  <img src="./docs/static/images/pipeline.png" align="center" width="100%">
+</p>
+
+
 ##  Updates :loudspeaker:
 Code will be released by June.
