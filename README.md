@@ -29,7 +29,7 @@
 
 
 <p align="center">
-  <img src="./docs/static/images/idea.gif" align="center" width="100%">
+  <img src="./docs/static/images/twitter_gif.gif" align="center" width="100%">
 </p>
 
 <br/>
