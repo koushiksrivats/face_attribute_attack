@@ -36,7 +36,7 @@
 
 
 ##  Updates :loudspeaker:
-Code will be released by the end of June.
+Code will be released soon.
 
 <br/>
 <br/>
