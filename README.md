@@ -36,7 +36,7 @@
 
 
 ##  Updates :loudspeaker:
-Code will be released soon.
+  - **28-07-2023**: Code released.
 
 <br/>
 <br/>
