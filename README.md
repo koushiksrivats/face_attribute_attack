@@ -29,14 +29,14 @@
 
 
 <p align="center">
-  <img src="./docs/static/images/idea.gif" align="center" width="100%">
+  <img src="./docs/static/images/twitter_gif.gif" align="center" width="100%">
 </p>
 
 <br/>
 
 
 ##  Updates :loudspeaker:
-Code will be released by the end of June.
+Code will be released soon.
 
 <br/>
 <br/>
