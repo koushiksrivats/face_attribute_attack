@@ -5,7 +5,7 @@
 
   <p align="center">
     <a href="https://fahadshamshad.github.io"><strong> Fahad Shamshad</strong></a>,
-    <a href="https://scholar.google.com/citations?user=LfIXeHQAAAAJ&hl=en"><strong> Koushik Srivatsan</strong></a>,
+    <a href="https://koushiksrivats.github.io"><strong> Koushik Srivatsan</strong></a>,
     <a href="https://scholar.google.com/citations?user=2qx0RnEAAAAJ&hl=en"><strong> Karthik Nandakumar</strong></a>
     <br>
     <span style="font-size:4em; "><strong> MBZUAI, UAE</strong>.</span>
