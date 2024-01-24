@@ -113,11 +113,11 @@ python classifier_training.py \
 python text_as_reference.py --config_file configs/config_text_as_reference.ini
 ```
 
-<!-- 
+
+**Adversarial faces with image as reference**
 ```shell
-# Adversarial faces with image as reference
 python image_as_reference.py --config_file configs/config_image_as_reference.ini
-``` -->
+```
 
 **Adversarial transferability with meta-optimization (Uses the text-as-reference method)**
 ```shell
